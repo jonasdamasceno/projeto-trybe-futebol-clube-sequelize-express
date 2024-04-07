@@ -1,0 +1,7 @@
+{
+  "eslint.workingDirectories": ["app/backend", "app/frontend"],
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+  "prettier.singleQuote": true
+}
